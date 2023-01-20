@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm HardiYans</h1>
-<h3 align="center">hello I'm a samp developer from Indonesia</h3>
+<h3 align="center">I'm just an ordinary programmer, I'm not good at coding</h3>
 
-- 🔭 I’m currently working on **Riau Roleplay**
+- 🔭 I’m currently working on **I'm just unemployed**
 
 - 💬 Ask me about **not a reliable developer**
 
 - 📫 How to reach me **hartodwibu@gmail.com**
 
-- ⚡ Fun fact **i am wibu🗿**
+- ⚡ Fun fact **I'm still a teenager**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
